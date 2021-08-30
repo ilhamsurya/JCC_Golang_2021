@@ -1,0 +1,6 @@
+Data Peserta Jabar Coding Camp Golang
+1. Nama: Muhammad Ilham Surya
+2. Email: ilhamsurya.m@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab/Github: ilhamsurya27
+5. Akun Telegram: ilhamsurya 
