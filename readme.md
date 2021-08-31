@@ -5,5 +5,5 @@
 - [Tugas 1:](./tugas_1)
   - Command Line Interface
   - Git command
-- Tugas 2:
-  -
+- [Tugas 2:](./tugas_2)
+  - Variable, Constant & Data type
