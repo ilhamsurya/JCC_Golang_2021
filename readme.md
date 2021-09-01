@@ -7,3 +7,5 @@
   - Git command
 - [Tugas 2:](./tugas_2)
   - Variable, Constant & Data type
+- [Tugas 3:](./tugas_3)
+  - Operator & Conditional
