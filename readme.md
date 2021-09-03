@@ -11,3 +11,5 @@
   - Operator & Conditional
 - [Tugas 4:](./tugas_4) (02/09/2021)
   - Array, Slice, Map
+- [Tugas 5:](./tugas_5) (02/09/2021)
+  - Function, Multiplevalue return function, Variadic function and Closure function
