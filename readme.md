@@ -11,5 +11,7 @@
   - Operator & Conditional
 - [Tugas 4:](./tugas_4) (02/09/2021)
   - Array, Slice, Map
-- [Tugas 5:](./tugas_5) (02/09/2021)
+- [Tugas 5:](./tugas_5) (03/09/2021)
   - Function, Multiplevalue return function, Variadic function and Closure function
+- [Tugas 6:](./tugas_6) (06/09/2021)
+  - Pointer, Parameter Pointer
