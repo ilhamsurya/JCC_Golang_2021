@@ -15,3 +15,5 @@
   - Function, Multiplevalue return function, Variadic function and Closure function
 - [Session 6:](./tugas_6) (06/09/2021)
   - Pointer, Parameter Pointer
+- [Session 7:](./tugas_7) (07/09/2021)
+  - Struct, Struct Literal, Embed Struct, Nested Struct, Method
