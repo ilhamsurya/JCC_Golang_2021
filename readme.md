@@ -17,3 +17,5 @@
   - Pointer, Parameter Pointer
 - [Session 7:](./tugas_7) (07/09/2021)
   - Struct, Struct Literal, Embed Struct, Nested Struct, Method
+- [Session 8:](./tugas_8) (08/09/2021)
+  - Interface, Type Assertions
