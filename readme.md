@@ -19,3 +19,5 @@
   - Struct, Struct Literal, Embed Struct, Nested Struct, Method
 - [Session 8:](./tugas_8) (08/09/2021)
   - Interface, Type Assertions
+- [Session 9:](./tugas_9) (09/09/2021)
+  - Defer, Panic, Error & Recovery
