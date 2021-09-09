@@ -73,7 +73,7 @@ func tambahAngka(angka1 int, angka2 *int) {
 }
 
 func soal_3() {
-	fmt.Println("=========== Soal 3 =============")
+	fmt.Println("============ Soal 3 ==============")
 	angka := 1
 	defer tambahAngka(7, &angka)
 	defer tambahAngka(6, &angka)
