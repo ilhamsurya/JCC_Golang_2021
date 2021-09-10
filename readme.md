@@ -21,3 +21,5 @@
   - Interface, Type Assertions
 - [Session 9:](./tugas_9) (09/09/2021)
   - Defer, Panic, Error & Recovery
+- [Session 10:](./tugas_10) (10/09/2021)
+  - Package & Import
