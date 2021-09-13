@@ -23,3 +23,5 @@
   - Defer, Panic, Error & Recovery
 - [Session 10:](./tugas_10) (10/09/2021)
   - Package & Import
+- [Session 11:](./tugas_11) (13/09/2021)
+  - Go Packages : Math, Flag, os, Time, Sort, Reflect
