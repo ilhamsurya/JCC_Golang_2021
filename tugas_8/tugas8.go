@@ -51,6 +51,9 @@ func main() {
 
 	// soal 3
 	soal_3()
+
+	// soal 4
+	soal_4()
 }
 
 func soal_1() {
@@ -153,9 +156,9 @@ func luasPersegi(sisi int, stats bool) interface{} {
 	s := strconv.Itoa(sisi)
 	luasPersegi := sisi * sisi
 	l := strconv.Itoa(luasPersegi)
-	if stats == true {
+	if sisi > 0 && stats == true {
 		infoLuas = "luas persegi dengan sisi " + s + " adalah " + l
-	} else if stats == false {
+	} else if sisi > 0 && stats == false {
 		infoLuas = l
 	} else if sisi == 0 && stats == true {
 		infoLuas = "Maaf anda belum menginput sisi dari persegi"
@@ -165,4 +168,36 @@ func luasPersegi(sisi int, stats bool) interface{} {
 		infoLuas = "tidak tersedia"
 	}
 	return infoLuas
+}
+
+func soal_4() {
+	fmt.Println("=========== Soal 4 =============")
+	var prefix interface{} = "hasil penjumlahan dari "
+
+	var kumpulanAngkaPertama interface{} = []int{6, 8}
+
+	var kumpulanAngkaKedua interface{} = []int{12, 14}
+
+	kalimat := "" + prefix.(string)
+
+	kumpulanAngka := []int{}
+
+	kumpulanAngka = append(kumpulanAngka, kumpulanAngkaPertama.([]int)[0], kumpulanAngkaPertama.([]int)[1])
+	kumpulanAngka = append(kumpulanAngka, kumpulanAngkaKedua.([]int)[0], kumpulanAngkaKedua.([]int)[1])
+
+	jumlah := 0
+
+	for index, item := range kumpulanAngka {
+		if index == 0 {
+			kalimat += strconv.Itoa(item)
+		} else {
+			kalimat += "+" + strconv.Itoa(item)
+		}
+		jumlah += item
+	}
+
+	kalimat += "=" + strconv.Itoa(jumlah)
+
+	fmt.Println(kalimat)
+
 }
