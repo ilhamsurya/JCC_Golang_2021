@@ -25,5 +25,7 @@
   - Package & Import
 - [Session 11:](./tugas_11) (13/09/2021)
   - Go Packages : Math, Flag, os, Time, Sort, Reflect
-- [Session 12:](./tugas_12) (13/09/2021)
+- [Session 12:](./tugas_12) (14/09/2021)
   - Go Routine & Channel
+- [Session 13:](./tugas_13) (15/09/2021)
+  - JSON data & Web Server
